@@ -1,0 +1,12 @@
+{
+    "version": "v3.8.0",
+    "notes": "Test version",
+    "pub_date": "2024-12-16T20:25:57Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+        "url": "https://github.com/Collaborationroom-AI/tauri-release/releases/tag/v3.8.1/CollaborationRoom_3.8.0_x64-setup.nsis.zip"
+      }
+    }
+  }
+  
